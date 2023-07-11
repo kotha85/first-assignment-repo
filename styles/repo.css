@@ -66,6 +66,7 @@
 }
 .plight-2{
     background-color: #0598a027;
+    height: 350px;
     padding-top: 80px; 
      padding-bottom: -20px;
      padding-left: 45px;
@@ -84,4 +85,48 @@
     /* width: 380px; */
    border-top-left-radius: 195px;
    border-top-right-radius: 195px;
+}
+.another-container{
+    background: #e5547321;
+    display: flex;
+    justify-content: space-around ;
+    align-items: center;
+    padding: 70px;
+}
+.other{
+    text-align: center;
+}
+.other-container{
+    display: flex;
+    gap: 20px;
+    margin-left:200px ;
+    
+}
+.for{
+    /* text-align: center; */
+    display: flex;
+    align-items: center;
+
+}
+.search{
+    background-image: url('Rectanle9.png');
+    background-size: cover;
+}
+.footer-element{
+    background-color: black;
+    color: snow;
+    text-align: center;
+    padding: 50px 190px;
+}
+.footer-para{
+    margin-top: 10px;
+}
+.footer-title{
+    font-size: 50px;
+}
+#ruff{
+    color: #E55473;
+}
+.other-title{
+    margin-top: 150px;
 }
